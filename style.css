@@ -1,0 +1,25 @@
+body {
+    background-color: blue;
+}
+
+.top-header {
+    background-color: bisque;
+    text-align: center; 
+    margin-top: 0;   
+}
+
+img {
+   width: 100%; 
+   display: center;
+   height: 300px; 
+}
+
+.post{
+    width: 500px;
+    margin: auto;
+    background-color: white; 
+}
+
+.header p{
+    margin-left: auto;
+}
